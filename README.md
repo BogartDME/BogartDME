@@ -53,16 +53,13 @@
 
 ### :fire: My Stats :
 
-
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogartDME&theme=midnight-purple&border_radius=6.1&fire=16EB60&currStreakNum=0FEB40&border=FFFDFD&dates=FBFFFD)](https://git.io/streak-stats)
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogartDME&show_icons=true&theme=midnight-purple)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogartDME&layout=compact)](https://github.com/BogartDME/github-readme-stats)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
-</div>
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
 
 ---
 <!---
