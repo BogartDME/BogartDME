@@ -57,12 +57,13 @@
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogartDME&theme=midnight-purple&border_radius=6.1&fire=16EB60&currStreakNum=0FEB40&border=074904&dates=0DEB0A)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogartDME&theme=midnight-purple&border_radius=6.1&fire=16EB60&currStreakNum=0FEB40&border=FFFDFD&dates=FBFFFD)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-midnight-purple-only)
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogartDME&show_icons=true&theme=midnight-purple)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogartDME&layout=compact)](https://github.com/BogartDME/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogartDME&exclude_repo=repo18github-readme-stats,BogartDME.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 BogartDME/BogartDME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
