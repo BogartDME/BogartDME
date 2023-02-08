@@ -14,9 +14,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -58,12 +55,16 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogartDME&theme=midnight-purple&border_radius=6.1&fire=16EB60&currStreakNum=0FEB40&border=FFFDFD&dates=FBFFFD)](https://git.io/streak-stats)
-
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogartDME&show_icons=true&theme=midnight-purple)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogartDME&layout=compact)](https://github.com/BogartDME/github-readme-stats)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
+</div>
+
+---
 <!---
 BogartDME/BogartDME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
