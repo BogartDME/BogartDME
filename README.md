@@ -20,7 +20,7 @@
 
 
 - 👋 Hi, I’m Edwin :man_technologist:
-- :seedling: I'm a fullstack programmer located outside of Philly in NJ 
+- :seedling: I'm a junior fullstack programmer located outside of Philly in NJ 
 - 👀 I’m interested in fitness, poker, DND, Rocket League, and anything involving competition!
 - :zap: I’m looking to collaborate on fun projects!
 - 📫 I'd love to hear from you! You can reach me at edwin.pietrowski@gmail.com
