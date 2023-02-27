@@ -19,7 +19,7 @@
 
 
 
-- 👋 Hi, I’m Edwin :man_technologist:
+- 👋 Hi, I’m Edwin- Welcome to my Github page! :man_technologist:
 - :seedling: I'm a junior fullstack programmer located outside of Philly in NJ 
 - 👀 I’m interested in fitness, poker, DND, Rocket League, and anything involving competition!
 - :zap: I’m looking to collaborate on fun projects!
