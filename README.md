@@ -58,9 +58,9 @@
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogartDME&show_icons=true&theme=midnight-purple)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogartDME&layout=compact)](https://github.com/BogartDME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogartDME&&layout=compact&langs_count=4&theme=dracula)](https://github.com/BogartDME/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BogartDME)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BogartDME&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
 
