@@ -51,7 +51,7 @@
 
 ---
 
-### 📊: My Stats :
+### 📊 My Stats :
 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogartDME&theme=midnight-purple&border_radius=6.1&fire=16EB60&currStreakNum=0FEB40&border=FFFDFD&dates=FBFFFD)](https://git.io/streak-stats)
