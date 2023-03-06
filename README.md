@@ -52,7 +52,7 @@
 ---
 
 ### 📊 My Stats :
-
+<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogartDME&theme=midnight-purple&border_radius=6.1&fire=16EB60&currStreakNum=0FEB40&border=FFFDFD&dates=FBFFFD)](https://git.io/streak-stats)
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogartDME&show_icons=true&theme=midnight-purple)
@@ -62,9 +62,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BogartDME&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+---  
+  
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
 
----
+
+
+</div>
 <!---
 BogartDME/BogartDME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
