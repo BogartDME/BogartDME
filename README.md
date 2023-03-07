@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="400"/>
+  <img src="./assets/images/EdwinLogo copy.jpg" width="350"/>
 </div>
 
 <div align="center">
@@ -20,7 +20,8 @@
 
 
 - 👋 Hi, I’m Edwin- Welcome to my Github page! :man_technologist:
-- :seedling: I'm a junior fullstack programmer located outside of Philly in NJ 
+- :seedling: I'm completing a fullstack coding boot camp through UNCC and looking forward to becoming a junior fullstack programmer.
+- :map: located outside of Philly in NJ 
 - 👀 I’m interested in fitness, poker, DND, Rocket League, and anything involving competition!
 - :zap: I’m looking to collaborate on fun projects!
 - 📫 I'd love to hear from you! You can reach me at edwin.pietrowski@gmail.com
