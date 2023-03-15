@@ -10,12 +10,13 @@
 </div>
 
 <h1 align="center">
-  Welcome to my github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,100:193E3D&height=200&section=header&text=Welcome%20to%20my%20github!&fontColor=FFFFFF&fontSize=50)
+  
 </h1>
 
 
----
 
 
 
@@ -26,7 +27,7 @@
 - :zap: I’m looking to collaborate on fun projects!
 - 📫 I'd love to hear from you! You can reach me at edwin.pietrowski@gmail.com
 
----
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=0:AF3E4D,100:193E3D&height=5&reversal=true)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -50,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
----
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=0:AF3E4D,100:193E3D&height=5&reversal=true)
 
 ### 📊 My Stats :
 <div align="center">
@@ -63,10 +64,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BogartDME&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
----  
+
   
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
 
+  ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,140:193E3D&height=100&section=footer)
 
 
 </div>
