@@ -68,7 +68,7 @@
   
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
 
-  ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,140:193E3D&height=100&section=footer)
+  ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,140:193E3D&height=140&section=footer)
 
 
 </div>
