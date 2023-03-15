@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=BogartDME&style=flat-square&color=yellow" alt="My profile view counter"/>
+<img src="https://komarev.com/ghpvc/?username=BogartDME&label=Bogart's+views&style=plastic-square&color=yellow" alt="My profile view counter"/>
 </div>
 
 <h1 align="center">
