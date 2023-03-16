@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=0:AF3E4D,100:193E3D&height=5&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=0:AF3E4D,100:193E3D&height=5)
 
 ### 📊 My Stats :
 <div align="center">
