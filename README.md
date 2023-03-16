@@ -22,7 +22,7 @@
 
 - 👋 Hi, I’m Edwin- Welcome to my Github page! :man_technologist:
 - :seedling: I'm completing a fullstack coding boot camp through UNCC and looking forward to becoming a junior fullstack programmer.
-- :map: located outside of Philly in NJ 
+- 🗺️ located outside of Philly in NJ 
 - 👀 I’m interested in fitness, poker, DND, Rocket League, and anything involving competition!
 - :zap: I’m looking to collaborate on fun projects!
 - 📫 I'd love to hear from you! You can reach me at edwin.pietrowski@gmail.com
