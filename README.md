@@ -12,7 +12,7 @@
 <h1 align="center">
  
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,100:193E3D&height=200&section=header&text=Welcome%20to%20my%20github!&animation=twinkling&fontColor=FFFFFF&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,70:193E3D&height=200&section=header&text=Welcome%20to%20my%20github!&animation=twinkling&fontColor=FFFFFF&fontSize=50)
   
 </h1>
 
