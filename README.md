@@ -27,7 +27,7 @@
 - :zap: I’m looking to collaborate on fun projects!
 - 📫 I'd love to hear from you! You can reach me at edwin.pietrowski@gmail.com
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=20:3A3E5B,45:AF3E4D,90:193E3D&height=5)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=20:3A3E5B,45:AF3E4D,90:193E3D&height=2.5)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=0:AF3E4D,20:193E3D,80:3A3E5B&height=5)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=0:AF3E4D,20:193E3D,80:3A3E5B&height=2.5)
 
 ### 📊 My Stats :
 <div align="center">
@@ -68,7 +68,7 @@
   
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="200"/>
 
-  ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=0:AF3E4D,80:193E3D&height=140&section=footer)
+  ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=20:3A3E5B,45:AF3E4D,90:19353D&height=140&section=footer)
 
 
 </div>
