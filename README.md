@@ -20,7 +20,7 @@
 
 
 
-- 👋 Hi, I’m Edwin- Welcome to my Github page! :man_technologist:
+- 👋 Hi, I’m Edwin- Thanks for checking out my Github page! :man_technologist:
 - :seedling: I'm completing a fullstack coding boot camp through UNCC and looking forward to becoming a junior fullstack programmer.
 - 🗺️ located outside of Philly in NJ 
 - 👀 I’m interested in fitness, poker, DND, Rocket League, and anything involving competition!
