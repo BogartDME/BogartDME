@@ -21,7 +21,7 @@
 
 
 - 👋 Hi, I’m Edwin- Thanks for checking out my Github page! :man_technologist:
-- :seedling: I'm completing a fullstack coding boot camp through UNCC and looking forward to becoming a junior fullstack programmer.
+- :seedling: I am a junior dev that just graduated from UNCC's fullstack bootcamp!
 - 🗺️ located outside of Philly in NJ 
 - 👀 I’m interested in fitness, poker, DND, Rocket League, and anything involving competition!
 - :zap: I’m looking to collaborate on fun projects!
